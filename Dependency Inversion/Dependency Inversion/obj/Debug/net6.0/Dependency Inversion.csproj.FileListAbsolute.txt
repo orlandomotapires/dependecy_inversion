@@ -1,0 +1,15 @@
+C:\Users\Orlando Mota\Documents\Dependency Inversion\Dependency Inversion\bin\Debug\net6.0\Dependency Inversion.exe
+C:\Users\Orlando Mota\Documents\Dependency Inversion\Dependency Inversion\bin\Debug\net6.0\Dependency Inversion.deps.json
+C:\Users\Orlando Mota\Documents\Dependency Inversion\Dependency Inversion\bin\Debug\net6.0\Dependency Inversion.runtimeconfig.json
+C:\Users\Orlando Mota\Documents\Dependency Inversion\Dependency Inversion\bin\Debug\net6.0\Dependency Inversion.dll
+C:\Users\Orlando Mota\Documents\Dependency Inversion\Dependency Inversion\bin\Debug\net6.0\Dependency Inversion.pdb
+C:\Users\Orlando Mota\Documents\Dependency Inversion\Dependency Inversion\obj\Debug\net6.0\Dependency Inversion.csproj.AssemblyReference.cache
+C:\Users\Orlando Mota\Documents\Dependency Inversion\Dependency Inversion\obj\Debug\net6.0\Dependency Inversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlando Mota\Documents\Dependency Inversion\Dependency Inversion\obj\Debug\net6.0\Dependency Inversion.AssemblyInfoInputs.cache
+C:\Users\Orlando Mota\Documents\Dependency Inversion\Dependency Inversion\obj\Debug\net6.0\Dependency Inversion.AssemblyInfo.cs
+C:\Users\Orlando Mota\Documents\Dependency Inversion\Dependency Inversion\obj\Debug\net6.0\Dependency Inversion.csproj.CoreCompileInputs.cache
+C:\Users\Orlando Mota\Documents\Dependency Inversion\Dependency Inversion\obj\Debug\net6.0\Dependency Inversion.dll
+C:\Users\Orlando Mota\Documents\Dependency Inversion\Dependency Inversion\obj\Debug\net6.0\refint\Dependency Inversion.dll
+C:\Users\Orlando Mota\Documents\Dependency Inversion\Dependency Inversion\obj\Debug\net6.0\Dependency Inversion.pdb
+C:\Users\Orlando Mota\Documents\Dependency Inversion\Dependency Inversion\obj\Debug\net6.0\Dependency Inversion.genruntimeconfig.cache
+C:\Users\Orlando Mota\Documents\Dependency Inversion\Dependency Inversion\obj\Debug\net6.0\ref\Dependency Inversion.dll
