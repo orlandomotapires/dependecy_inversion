@@ -8,7 +8,6 @@
     </a>
 </div>
 
-
 ## Developed by 💻:
 
 - [Fernando Schettini](https://github.com/FernandoSchett).
@@ -21,14 +20,15 @@
 
 ## About 🤔: 
 
+This repository showcases a C# project developed in Visual Studio that addresses a specific code smell. By applying the dependency inversion principle, the code was refactored to improve flexibility and maintainability. The repository includes source code, documentation, and serves as an educational resource for understanding and implementing effective coding practices.
+
 ## Resourses 🧑‍🔬:
 
-- 
-- 
+- Use the available classes to create elements and simulate and establish relationships between them, while each one performs its action.
 
 ## How to run it 🏃:
 
-First, clone this repository. After that, open the project with Visual Studio and execute Program.cs.
+First, clone this repository. After that, open the project with Visual Studio and execute ```Program.cs```.
 
 ## Code Feedback 🎬:
 
@@ -52,6 +52,7 @@ Heres the UML that represents how the code works with their classes.
 
 ## Development Process ⚙️:
 
+The project was developed in a few hours during a meeting, without a formal methodology or strategy. Team members brainstormed ideas, discussed requirements, and collaboratively implemented functionalities. Flexibility and quick decision-making were prioritized, but there may be challenges in terms of organization and scalability without a defined methodology.
 
 ### Tools Used 🛠️: 
 
