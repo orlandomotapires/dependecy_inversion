@@ -28,9 +28,7 @@
 
 ## How to run it 🏃:
 
-First, clone this repository. After that, simply execute the ```file_name``` file with the command:
-
-    sudo command_for_running_project
+First, clone this repository. After that, open the project with Visual Studio and execute Program.cs.
 
 ## Code Feedback 🎬:
 
