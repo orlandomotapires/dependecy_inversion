@@ -1,18 +1,23 @@
 ### This READ.md template was written based on this [repository](https://github.com/FernandoSchett/github_readme_template).
 
-<h1 align="center">🟠 Application Title 🟠</h1>
+<h1 align="center">⏪ Dependency Inversion ⏪</h1>
 
 <div align="center">
 	<a href="link_for_webite">
-	<img height = "250em" src = "" />
+	<img height = "250em" src = "https://github.com/orlandomotapires/dependecy_inversion/assets/80331486/598b844a-5db1-4ea9-9283-94c8c8ec015e" />
     </a>
 </div>
 
+
 ## Developed by 💻:
-- [<you_name>](https://github.com/FernandoSchett).
+
+- [Fernando Schettini](https://github.com/FernandoSchett).
+- [Antonio Horácio Magalhães](https://github.com/AntonioHoracio77).
+- [Orlando Mota Pires](https://github.com/orlandomotapires).
 
 ## Special thanks to 🥰:
-- [<person_name>](https://github.com/<profile_username>), Your experience and knowledge have been invaluable to our progress.
+
+- [Edson Mota](https://github.com/edsonmottac) - Our supervising teacher, your experience and knowledge have been invaluable to our progress.
 
 
 ## About 🤔:
@@ -24,44 +29,20 @@
 - 
 - 
 
-
-## Results 📈:
-
-## Routes 🛣️:
-Every Route from the API can be found in [swagger](). 
-
--
--
-
-## Dependencies 🚚:
-
-The project dependencies are described in a dependencies file within the repository. In summary, heres what you're gonna need in order to run the project:
-
-- 
-- 
-
-For installing dependencies more quickly, you can run the following command at terminal, inside the clonned repository:
-
-    sudo command_for_installing_deppendecies
-
 ## How to run it 🏃:
 
 First, clone this repository. After that, simply execute the ```file_name``` file with the command:
 
     sudo command_for_running_project
 
-## How to install 🔬:
-
-## Screens 🎬:
-
-<app_name> screens were developed to turn out like [figma](link_for_figma) screens:
+## Code FEedback 🎬:
 
 <div align="center">
 	<a href="">
 	<img height = "250em" src = "" />
     </a>
 </div>
-<h4 align="center">Figure 1 - Screens from <app_name> </h4>
+<h4 align="center">Figure 1 - Screens from code feedback </h4>
 
 
 ## UML‍ 💬:
