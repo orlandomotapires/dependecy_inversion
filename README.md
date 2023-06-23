@@ -1,4 +1,4 @@
-### This READ.md template was written based on this [repository](https://github.com/FernandoSchett/github_readme_template).
+![image](https://github.com/orlandomotapires/dependecy_inversion/assets/80331486/f82d0c69-c61b-46c2-b3e3-33fd0798fc9b)### This READ.md template was written based on this [repository](https://github.com/FernandoSchett/github_readme_template).
 
 <h1 align="center">⏪ Dependency Inversion ⏪</h1>
 
@@ -20,11 +20,15 @@
 
 ## About 🤔: 
 
-This repository showcases a C# project developed in Visual Studio that addresses a specific code smell. By applying the dependency inversion principle, the code was refactored to improve flexibility and maintainability. The repository includes source code, documentation, and serves as an educational resource for understanding and implementing effective coding practices.
+This repository showcases a C# project developed in Visual Studio that addresses a specific code smell in a abstract example. By applying the dependency inversion principle, the code was refactored to enhance flexibility and maintainability, improving class relationships.
+
+The application of the dependency inversion principle brings several advantages to the codebase. By inverting dependencies and promoting loose coupling, it enables easier maintenance and scalability. This approach fosters modularity and code reusability by relying on abstractions rather than concrete implementations. Additionally, it improves testability by facilitating the isolation of dependencies during testing. This factor further enhances flexibility and scalability as it allows for the addition of new functionalities without modifying existing code. Moreover, it centralizes dependency management, contributing to improved code maintainability.
+
+This repository includes the source code and documentation, serving as an educational resource for understanding and implementing effective coding practices.
 
 ## Resourses 🧑‍🔬:
 
-- Use the available classes to create elements and simulate and establish relationships between them, while each one performs its action.
+- Use the available classes to create elements and simulate and establish relationships between them, while each one performs its function.
 
 ## How to run it 🏃:
 
