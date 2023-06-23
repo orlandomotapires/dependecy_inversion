@@ -34,7 +34,7 @@ First, clone this repository. After that, open the project with Visual Studio an
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
+	<img height = "250em" src = "https://github.com/orlandomotapires/dependecy_inversion/assets/80331486/703e7667-0574-4aea-8a1a-858da0b0ba20" />
     </a>
 </div>
 <h4 align="center">Figure 1 - Screens from code feedback.</h4>
