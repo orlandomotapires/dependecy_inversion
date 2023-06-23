@@ -1,4 +1,4 @@
-![image](https://github.com/orlandomotapires/dependecy_inversion/assets/80331486/f82d0c69-c61b-46c2-b3e3-33fd0798fc9b)### This READ.md template was written based on this [repository](https://github.com/FernandoSchett/github_readme_template).
+### This READ.md template was written based on this [repository](https://github.com/FernandoSchett/github_readme_template).
 
 <h1 align="center">⏪ Dependency Inversion ⏪</h1>
 
