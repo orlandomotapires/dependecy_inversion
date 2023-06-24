@@ -43,16 +43,27 @@ First, clone this repository. After that, open the project with Visual Studio an
 </div>
 <h4 align="center">Figure 1 - Screens from code feedback.</h4>
 
-## UML‍ 💬:
+## Logic Model 🧮:
 
-Heres the UML that represents how the code works with their classes.
+Here's the logic model that represents how the code works with their classes.
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
+	<img height = "250em" src = "https://github.com/orlandomotapires/dependecy_inversion/assets/80331486/435c5143-b5d7-49cf-b0e7-e1257712569b" />
     </a>
 </div>
-<h4 align="center">Figure 2 - Code UML.</h4>
+<h4 align="center">Figure 2 - Logic Model.</h4>
+
+## UML‍ 💬:
+
+Here's the UML that represents how the code works with their classes.
+
+<div align="center">
+	<a href="">
+	<img height = "250em" src = "https://github.com/orlandomotapires/dependecy_inversion/assets/80331486/ab0ef0dc-df03-40f2-b1ba-40109f278211" />
+    </a>
+</div>
+<h4 align="center">Figure 3 - Code UML.</h4>
 
 ## Development Process ⚙️:
 
@@ -60,7 +71,8 @@ The project was developed in a few hours during a meeting, without a formal meth
 
 ### Tools Used 🛠️: 
 
-- [Visual Studio](https://visualstudio.microsoft.com/pt-br/). 
+- [Visual Studio](https://visualstudio.microsoft.com/pt-br/).
+- [Miro](https://miro.com/). 
 
 ## How to contribute 🫂:
 
